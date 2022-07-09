@@ -32,7 +32,7 @@
 * 2008.09-2012.05 - Kyiv National University by Taras Shevchenko, Kyiv (Ukraine)
     * bachelor degree: Chinese language, literature and translation
 ## Projects
-* **CV**
+* **[CV](https://elian-cheng.github.io/rsschool-cv/cv)**
 ### Trainings
 * 2022.07-now - [RS School Course «JavaScript/Front-end. Stage 0» (in progress)](https://wearecommunity.io/events/js-stage0-rs-2022q2)
     * HTML, CSS, Git, JavaScript Basics
