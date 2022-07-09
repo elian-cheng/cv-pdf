@@ -1,19 +1,22 @@
 # Olga Chernega
 ***
+![](https://github.com/elian-cheng/rsschool-cv/blob/gh-pages/ava%201454.jpg?raw=true)
 ## Contacts
-* **Phone:** +38 068-383-77-07
+* **Phone** +38 068-383-77-07
 * **E-mail:** chernega.o@gmail.com
 * **Location:** Kyiv, Ukraine
+* **GitHub:** [elian-cheng](https://github.com/elian-cheng)
+* **Discord:** Oleandera#2061
 ## Profile
 * Versatile person with rich life experience. Lived in China for 6 years, then moved back to Ukraine. Accustomed to work with international clients, excellent knowledge of English and Chinese. Studied marketing for a long time, working in finances and sales. Start of war in Ukraine gave me some free time (as I’m currently without a job) to reconsider my life prospects and study something I wanted for a long time: IT development.*
 ## Scills
-* **HTML5, CSS3**
-* **Git, GitHub**
-* **JavaScript Basics**
-* **VS Code, Wordpress**
-* **MS Office**
-* **Adobe Photoshop**
-* **Touch-typing: Russian, English and Chinese**
+* **Web-development:** HTML5, CSS3, JavaScript Basics
+* **Version control:** Git, GitHub
+* **Editors:** VS Code
+* **CMS:** WordPress
+* **Photo editor:** Adobe Photoshop
+* **Computer:** Windows, MS Office
+* **Touch-typing:** Russian, English and Chinese
 ## Experience
 * 2014.06-2018.01 - working in different companies in China
     * main duties: inspection and shipping of products, following manufacturing process, negotiations, client management
@@ -28,10 +31,12 @@
     * master degree: Administrative management
 * 2008.09-2012.05 - Kyiv National University by Taras Shevchenko, Kyiv (Ukraine)
     * bachelor degree: Chinese language, literature and translation
+## Projects
+* **CV**
 ### Trainings
-* 2022.07-now - RS School Course «JavaScript/Front-end. Stage 0» (in progress)
+* 2022.07-now - [RS School Course «JavaScript/Front-end. Stage 0» (in progress)](https://wearecommunity.io/events/js-stage0-rs-2022q2)
     * HTML, CSS, Git, JavaScript Basics
-* 2020-2021 - Genius Marketing Annual Coaching
+* 2020-2021 - [Genius Marketing Annual Coaching](https://geniusmarketing.me/coaching/new/index_reserve.html)
     * Internet Marketing, Email and Content Marketing, Youtube Marketing, Copywriting, SMM, Client Service, Conversion Optimisation, Google and Yandex Ads, SEO
 ### Languages
 * **English**: Advanced
@@ -48,8 +53,6 @@ const func = (num) => {
   return num + 1;
 };
 ```
-## Projects
-* **CV**
 ### Hobbies
 * Reading
 * Music
