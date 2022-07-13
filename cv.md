@@ -2,7 +2,7 @@
 ***
 ![](https://github.com/elian-cheng/rsschool-cv/blob/gh-pages/ava%201454.jpg?raw=true)
 ## Contacts
-* **Phone** +38 068-383-77-07
+* **Phone:** +38 068-383-77-07
 * **E-mail:** chernega.o@gmail.com
 * **Location:** Kyiv, Ukraine
 * **GitHub:** [elian-cheng](https://github.com/elian-cheng)
