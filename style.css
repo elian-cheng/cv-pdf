@@ -74,9 +74,12 @@ body {
     width: 1024px;
     justify-content: space-between;
     align-items: center;
+    text-decoration: none;
     background-color: #ffffff;
   }
-
+.github {
+  text-decoration: none;
+}
 h1 { 
     font-variant: small-caps;
 }
