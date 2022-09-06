@@ -8,7 +8,7 @@
 * **GitHub:** [elian-cheng](https://github.com/elian-cheng)
 * **Discord:** Oleandera#2061
 ## Profile
-*Versatile person with rich life experience. Lived in China for 6 years, then moved back to Ukraine. Accustomed to work with international clients, excellent knowledge of English and Chinese. Studied marketing for a long time, working in finances and sales. Start of war in Ukraine gave me some free time (as I’m currently without a job) to reconsider my life prospects and study something I wanted for a long time: IT development.*
+*Person with rich life and work experience. Lived for 6 years in China, then moved back to Ukraine. Accustomed to work with international clients, excellent knowledge of English and Chinese. At first worked in logistics and product manufacturing. Then studied marketing for a long time, working in finances and sales. Start of war in Ukraine gave me some free time (as I’m currently without a job) to reconsider my life prospects and study something I wanted for a long time: IT development.*
 ## Skills
 * **Web-development:** HTML5, CSS3, JavaScript Basics
 * **Version control:** Git, GitHub
@@ -46,12 +46,9 @@
 ### Code sample
 ```
 javascript
-const func = (num) => {
-  if (num > 0) {
-    return num - 1;
-  }
-  return num + 1;
-};
+ function toWeirdCase(string){
+      return string.toUpperCase().replace(/\w{2}/g, val => val[0] + val[1].toLowerCase());
+    }
 ```
 ### Hobbies
 * Reading
