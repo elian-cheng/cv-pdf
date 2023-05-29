@@ -159,15 +159,15 @@ a {
 }
 
 .left-column {
-  width: 42%;
+  width: 38%;
   color: var(--dark-gray-color);
   background-color: var(--blue-color);
   padding-bottom: 30px;
 }
 
 .right-column {
-  width: 58%;
-  padding: 40px 40px 40px 20px;
+  width: 62%;
+  padding: 40px 30px 30px 20px;
 }
 
 header {
@@ -201,7 +201,7 @@ header p {
 }
 
 main {
-  padding: 0 40px;
+  padding: 0 10px;
 }
 
 main h3 {
@@ -256,7 +256,7 @@ main :not(.contacts) ul {
 
 .right-column .sub-header {
   display: flex;
-  margin-top: 25px;
+  margin-top: 20px;
   margin-bottom: 15px;
 }
 
@@ -371,4 +371,16 @@ main :not(.contacts) ul {
 
 .work-duties {
   flex: 0 1 70%;
+}
+
+.functional-expertise {
+  list-style-type: disc;
+  font-size: 16px;
+  margin-left: 60px;
+  font-weight: bold;
+}
+
+.profile-expertise-title {
+  text-align: center;
+  text-decoration: underline;
 }
