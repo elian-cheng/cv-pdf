@@ -146,12 +146,12 @@ a {
 
 .container-centered {
   margin: 20px auto;
+  box-shadow: 10px 10px 40px -1px rgba(0, 0, 0, 0.23);
   width: 1024px;
   font-family: "Cabin", sans-serif;
   font-size: 18px;
   line-height: 1.5;
   background-color: #ffffff;
-  box-shadow: 10px 10px 40px -1px rgba(0, 0, 0, 0.23);
 }
 
 .two-columns {
@@ -162,16 +162,16 @@ a {
   width: 38%;
   color: var(--dark-gray-color);
   background-color: var(--blue-color);
-  padding-bottom: 30px;
+  padding-bottom: 15px;
 }
 
 .right-column {
   width: 62%;
-  padding: 40px 30px 30px 20px;
+  padding: 60px 30px 30px 20px;
 }
 
 header {
-  padding: 30px;
+  padding: 50px 30px 30px 30px;
   text-align: center;
   background-color: #ffffff;
 }
@@ -306,10 +306,6 @@ main :not(.contacts) ul {
 
 .work p strong {
   font-weight: 700;
-}
-
-.certificates {
-  padding-bottom: 1.5rem;
 }
 
 .portfolio p {
