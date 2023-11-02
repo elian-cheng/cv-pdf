@@ -184,7 +184,7 @@ header img {
 
 header h1 {
   margin-bottom: 10px;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 700;
   line-height: 1.1;
   text-transform: uppercase;
@@ -359,6 +359,14 @@ main :not(.contacts) ul {
 
 .mb-5 {
   margin-bottom: 5px;
+}
+
+.mb-15 {
+  margin-bottom: 15px;
+}
+
+.mt-15 {
+  margin-top: 15px;
 }
 
 .work-experience {
